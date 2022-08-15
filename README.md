@@ -3,7 +3,7 @@ Digital appendix materials from my PhD Thesis at the University of Otago
 
 This repository is the fourth digital appendix created to suplement my PhD thesis "Resources to Aid Decision-Making in Conservation Translocations" submitted to the University of Otago in November 2021.
 
-As these digital appendices are not intended to be stand alone, I intend to upload a pdf file of my thesis once it is accepted and finalised to provide further context for the repository content.
+As these digital appendices are not intended to be stand alone, a pdf of my completed thesis is also provided in an accompanying repository.
 
 This final appendix provides .mp4 files containing animations of satelite tracking data collected as part of my thesis research for takahe reintroduced to Kahurangi National Park.
 
